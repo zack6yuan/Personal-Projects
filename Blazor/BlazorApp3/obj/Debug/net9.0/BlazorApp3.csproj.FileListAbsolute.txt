@@ -1,7 +1,12 @@
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.csproj.AssemblyReference.cache
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.AssemblyInfoInputs.cache
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.AssemblyInfo.cs
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.csproj.CoreCompileInputs.cache
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.MvcApplicationPartsAssemblyInfo.cache
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.sourcelink.json
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/blazor.webassembly.js
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/BlazorApp3.ff8895a6lc.pdb
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/BlazorApp3.4vh8jxmk6v.wasm
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/dotnet.js
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/dotnet.js.map
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/dotnet.native.50iqa8w3ys.js
@@ -213,7 +218,6 @@
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.0usfjilh8o.wasm.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.srjvbq70j7.wasm.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.TraceSource.0ckdtqs5j7.wasm.gz
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/BlazorApp3.ff8895a6lc.pdb.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/System.Xml.Linq.0hkcf0q9lo.wasm.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/System.Private.Xml.Linq.9v5bzfxeom.wasm.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/System.IO.Compression.FileSystem.2ue1itbuyd.wasm.gz
@@ -334,7 +338,6 @@
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/System.Drawing.Primitives.z25j63ugqe.wasm.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/System.Text.RegularExpressions.tx15uhtia0.wasm.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/System.Memory.g91ozhn0mo.wasm.gz
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/BlazorApp3.4vh8jxmk6v.wasm.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.Csp.d2kiax5rl9.wasm.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.clxxe408nq.wasm.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/System.Data.Common.177seeycj4.wasm.gz
@@ -610,13 +613,6 @@
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/icudt_CJK.dat
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/icudt_EFIGS.dat
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/icudt_no_CJK.dat
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.csproj.AssemblyReference.cache
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.GeneratedMSBuildEditorConfig.editorconfig
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.AssemblyInfoInputs.cache
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.AssemblyInfo.cs
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.csproj.CoreCompileInputs.cache
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.MvcApplicationPartsAssemblyInfo.cache
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.sourcelink.json
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/webcil/Microsoft.AspNetCore.Authorization.wasm
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/webcil/Microsoft.AspNetCore.Components.wasm
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/webcil/Microsoft.AspNetCore.Components.Forms.wasm
@@ -1065,9 +1061,6 @@
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/compressed/h5m1lq4o0m-tjcz0u77k5.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/compressed/hizsxj7f47-tptq2av103.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/compressed/yehaqxyu7h-lfu7j35m59.gz
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/compressed/lna02w6xtd-4vh8jxmk6v.gz
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/compressed/2aa3lx2tb3-ff8895a6lc.gz
-/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/compressed/ghe9mklbsy-hc92diurry.gz
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/staticwebassets.build.json
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/staticwebassets.development.json
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -1082,3 +1075,10 @@
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/refint/BlazorApp3.dll
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/BlazorApp3.pdb
 /Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/ref/BlazorApp3.dll
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/BlazorApp3.85krs714qk.pdb
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/BlazorApp3.bsavbf3zut.wasm
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/BlazorApp3.85krs714qk.pdb.gz
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/bin/Debug/net9.0/wwwroot/_framework/BlazorApp3.bsavbf3zut.wasm.gz
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/compressed/lna02w6xtd-bsavbf3zut.gz
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/compressed/2aa3lx2tb3-85krs714qk.gz
+/Users/zackyuan/Personal-Projects-6/Blazor/BlazorApp3/obj/Debug/net9.0/compressed/ghe9mklbsy-6qkwq7dn2e.gz

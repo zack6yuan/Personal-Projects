@@ -1,6 +1,7 @@
 ﻿@page "/counter"
 
 <PageTitle>Counter</PageTitle>
+<div class="@(bg)" style="height: 150px; width: 100%;" @onmousemove="ChangeColor">
 
 <h1>Counter</h1>
 
@@ -8,11 +9,33 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+<p class="">
+    Move the mouse. Coordinate: @positionX, @positionY
+</p>
+</div>
+
 @code {
     private int currentCount = 0;
-
+    private double positionX = 0;
+    private double positionY = 0;
+    private string bg = "bg-warning";
     private void IncrementCount()
     {
         currentCount++;
+    }
+    private void ChangeColor(MouseEventArgs args)
+    {
+        positionX = args.PageX;
+        positionY = args.PageY;
+
+        if(args.MovementX < 0 && args.MovementY > 0)
+            bg = "bg-warning";
+        if(args.MovementX >0 && args.MovementY < 0)
+            bg = "bg-secondary";
+        if(args.MovementX < 0 && args.MovementY < 0)
+            bg = "bg-primary";
+
+        positionX = args.MovementX;
+        positionY = args.MovementY;
     }
 }
